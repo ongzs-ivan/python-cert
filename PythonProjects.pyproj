@@ -22,7 +22,11 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="PythonProjects.py" />
-    <Compile Include="src\user_config_project.py" />
+    <Compile Include="src\budget_app_proj.py" />
+    <Compile Include="src\hash_table_proj.py" />
+    <Compile Include="src\hanoi_algo_proj.py" />
+    <Compile Include="src\polygon_calc_proj.py" />
+    <Compile Include="src\user_config_proj.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="src\" />
