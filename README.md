@@ -1,5 +1,5 @@
 # About
-This repository is a compilation of projects I made to qualify for a Python Certification.
+This repository is a compilation of projects I made to qualify for freeCodeCamp's Python Certification.
 
 The following projects include:
 1. A budgeting app
